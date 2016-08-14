@@ -5,7 +5,7 @@ const webpack = require('webpack');
 const buildDirectory = './dist/';
 
 module.exports = {
-  entry: './lib/gravatar.jsx',
+  entry: './lib/main.jsx',
   devServer: {
     hot: true,
     inline: true,
